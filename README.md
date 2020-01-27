@@ -14,7 +14,7 @@ Use Node 10 or more
 git clone 
 cd fizzbuzz
 npm install
-npm start (for development)
+npm run start (for development)
 local: http://localhost:8080/fizzbuzz/:count
 ```
 ### Config
